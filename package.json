@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "git": "^0.1.5"
+    "git": "^0.1.5",
+    "node-modules": "^1.0.1"
   }
 }
